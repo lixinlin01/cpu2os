@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+
+# 忽略根目錄下的 bin 資料夾 (如果有)
+bin/
+
+# [新增] 但是保留 src/bin
+!src/bin/
