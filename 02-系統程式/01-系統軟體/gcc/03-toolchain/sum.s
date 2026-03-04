@@ -1,5 +1,5 @@
 	.section	__TEXT,__text,regular,pure_instructions
-	.build_version macos, 14, 0	sdk_version 14, 2
+	.build_version macos, 14, 2	sdk_version 14, 2
 	.globl	_sum                            ; -- Begin function sum
 	.p2align	2
 _sum:                                   ; @sum
